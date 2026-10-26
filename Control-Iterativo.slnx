@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Break-Continue/Break-Continue.csproj" />
+  <Project Path="For-Foreach/For-Foreach.csproj" />
+  <Project Path="While-Do-While/While-Do-While.csproj" />
+</Solution>
